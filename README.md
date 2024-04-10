@@ -1,18 +1,10 @@
-# Atom: Penetration Testing AI Assistant
+# Atom Pro: Penetration Testing AI Assistant (With More Security)
 
 ![Atom Cover Image](images/cover.png)
 
 ## Overview
 
 Atom is a penetration testing (pentest) AI assistant designed to empower security professionals and enthusiasts alike. By leveraging the power of GPT-4, Atom provides a conversational interface to assist users in mapping, understanding, and exploiting their attack surface with a new level of insight.
-
-### What is Penetration Testing?
-
-Penetration Testing, or pentesting, is a simulated cyber attack against your computer or network to check for exploitable vulnerabilities.
-
-Pentesting can involve the attempted breaching of any number of application systems, (e.g., application protocol interfaces (APIs), frontend/backend servers) to uncover vulnerabilities, such as unsanitized inputs that are susceptible to code injection attacks.
-
-The goal of the pentest is to discover these vulnerabilities, determine there severity by attempting to exploit them, and provide a detailed report back of what was vulnerable and how to fix it.
 
 ### Features
 
