@@ -4,7 +4,7 @@
 
 ## Overview
 
-Atom Pro is an enhanced version of the Atom penetration testing (pentest) AI assistant, designed with professional security experts in mind. By leveraging the power of GPT-4 and incorporating advanced security features, Atom Pro provides a secure and powerful conversational interface to assist users in mapping, understanding, and exploiting their attack surface with unparalleled insight.
+Atom Pro is an enhanced version of the Atom penetration testing (pentest) AI assistant, designed with professional security experts in mind. By leveraging the power of open source LLMs and incorporating advanced security features, Atom Pro provides a secure and powerful conversational interface to assist users in mapping, understanding, and exploiting their attack surface with unparalleled insight.
 
 ### New Features in Atom Pro
 
