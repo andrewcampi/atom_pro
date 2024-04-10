@@ -1,0 +1,5 @@
+pywebio
+pycvesearch
+cloudscraper
+bs4
+django
