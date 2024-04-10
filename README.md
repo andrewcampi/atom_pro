@@ -36,9 +36,9 @@ Ensure you have Python 3 installed on your system. Atom Pro's dependencies are l
 
 1. Install OpenSSL:
 
-'''sh
+```sh
 sudo apt-get install openssl -y
-'''
+```
 
 2. Install LMStudio by following the instructions at [https://lmstudio.ai/](https://lmstudio.ai/). Configure it properly, download the model of your choice, and turn on the "API server" feature.
 
@@ -50,9 +50,9 @@ sudo apt-get install openssl -y
 
 3. Install the required Python packages:
 
-'''sh
+```sh
 pip3 install -r requirements.txt
-'''
+```
 
 ### Configuration
 
@@ -64,23 +64,23 @@ Enter the IP address of your LMStudio API, port, and model name.
 
 To run Atom Pro's server:
 
-'''sh
+```sh
 python3 server.py
-'''
+```
 
 To access Atom Pro's user interface (UI), both the server and the UI need to be running concurrently:
 
 1. Start the server:
 
-'''sh
+```sh
 python3 server.py
-'''
+```
 
 2. In a separate terminal, start the UI:
 
-'''sh
+```sh
 python3 ui.py
-'''
+```
 
 ## Using Atom Pro
 
