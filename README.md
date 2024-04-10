@@ -60,6 +60,14 @@ pip3 install -r requirements.txt
 
 Enter the IP address of your LMStudio API, port, and model name.
 
+### DISCLAIMER
+
+Since we are not using OpenAI for the pro version, the quality of Atom Pro's response is directly tied to the quality of the LLM you select. 
+I tested this using Mistral7B and the quality was significantly lower than using OpenAI, to the point where the responses were causing errors. 
+It is highly recommended to select a model of GPT-3.5 quality level or higher (research some benchmarks to make sure you are selecting a quality model). That being said, runing a 70B model would require a very powerful rig. 
+
+Open Source LLM Leaderboard: https://huggingface.co/spaces/HuggingFaceH4/open_llm_leaderboard
+
 ### Running Atom Pro
 
 To run Atom Pro's server:
