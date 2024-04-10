@@ -8,7 +8,7 @@ Atom Pro is an enhanced version of the Atom penetration testing (pentest) AI ass
 
 ### New Features in Atom Pro
 
-- **SSL-enabled UI:** Using the Pywebiosecure library instead of Pywebio, the UI now features auto-generated TLS 1.3 SSL certificates by default. Furthermore, you can generate your own certificates and use the BYOC (Bring Your Own Cert) feature by editing the "ui.py" file to reference your cert file locations.
+- **SSL-enabled UI:** Using the Pywebiosecure library instead of Pywebio, the UI now features auto-generated TLS 1.3 SSL certificates by default. Furthermore, you can generate your own certificates and use the BYOC (Bring Your Own Cert) feature by editing the "ui.py" file to reference your cert file locations. If BOYC interests you, reference Pywebiosecure's repo to view a code example where paths to the cert files are specified: https://github.com/andrewcampi/pywebiosecure
 
 - **Improved Information Security:** Pentest data needs to stay secure, as it is confidential and highly sensitive. Therefore, professional pentesters do not want to send data back and forth to OpenAI via the GPT API. To account for this, Atom Pro is set up to interface with LMStudio, a software that you can install to run LLM models locally and set up an API to interact with it. This way, all sensitive data remains secure and is not shared with a third party.
 
